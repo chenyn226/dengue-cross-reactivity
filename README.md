@@ -1,2 +1,2 @@
 # dengue-cross-reactivity
-The codes and data will be availble soon
+Code and data will be made publicly available upon publication of the manuscript.
