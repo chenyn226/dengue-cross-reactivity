@@ -44,7 +44,7 @@
 `simulation_foiest_highendemic_periodic_subsettested.rds`: posterior estimates of force of infection in simulation study under periodic sampling using subset tested data, in high-endemic setting.
 
 
-## Codes
+## CODE
 `preprocess_stan_data_StatusModel.R`: the code generating `stan_data_StatusModel.rds`.
 
 `preprocess_stan_data_TitreModel.R`: the code generating `stan_data_TitreModel.rds`.
