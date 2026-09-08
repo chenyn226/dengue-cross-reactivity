@@ -55,7 +55,7 @@
 `TitreModel_implement.R`: the code implementing the titre-incorporated model.
 
 
-`Figurecode.R`: the code generating the figures in the main manuscript.
+`figurecode.R`: the code generating the figures in the main manuscript.
 
 
 
